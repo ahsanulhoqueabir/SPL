@@ -3,7 +3,7 @@
 
 # Structured Programming Language
 
-In this repository,i have tried to put together the problems that solved or given as home work by zulfiqur sir in SPL class and lab.
+In this repository,i have tried to put together the problems that solved or given as home work by Zulfiker  sir in SPL class and lab.
 
 
 
