@@ -60,6 +60,10 @@ Please adhere to this project's `code of conduct`.
 34. [Matrix](https://github.com/ahsanulhoqueabir/SPL/blob/main/31.%20Matrix.c)
 35. [Decimal to Binary](https://github.com/ahsanulhoqueabir/SPL/blob/main/32.%20Decimal%20to%20Binary.c)
 36. [String](https://github.com/ahsanulhoqueabir/SPL/blob/main/15th%20May.c)
+37. [Swaping using function](https://github.com/ahsanulhoqueabir/SPL/blob/main/33.%20Swaping%20using%20function.c)
+38. [Problem C Lucky Number](https://github.com/ahsanulhoqueabir/SPL/blob/main/34.%20Problem%20C%20Lucky%20Number.c)
+39. [E - Fibonacci](https://github.com/ahsanulhoqueabir/SPL/blob/main/35.%20E%20-%20Fibonacci.c)
+40. [Problem L](https://github.com/ahsanulhoqueabir/SPL/blob/main/36.%20Problem%20L.c)
 
 
 
