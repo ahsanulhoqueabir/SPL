@@ -25,9 +25,9 @@ Please adhere to this project's `code of conduct`.
 ## Documentation
 
 1. [Find out the average of five number](https://github.com/ahsanulhoqueabir/SPL/blob/main/1.%20Average.c)
-2  [Temperature conversion : Celcius to Fahrenheit ](https://github.com/ahsanulhoqueabir/SPL/blob/main/2.1%20temperature%20conversion.c)
-3. [Temperature conversion : Fahrenheit to Celcius](https://github.com/ahsanulhoqueabir/SPL/blob/main/2.2%20tempareture%20conversion.c)
-4. [Numbers of days to year,month,days.](https://github.com/ahsanulhoqueabir/SPL/blob/main/3.%20Number%20of%20days.c)
+2  [Temperature conversion : Celcius to Fahrenheit ](https://github.com/ahsanulhoqueabir/SPL/blob/main/02.1%20temperature%20conversion.c)
+3. [Temperature conversion : Fahrenheit to Celcius](https://github.com/ahsanulhoqueabir/SPL/blob/main/02.2%20tempareture%20conversion.c)
+4. [Numbers of days to year,month,days.](https://github.com/ahsanulhoqueabir/SPL/blob/main/03.%20Number%20of%20days.c)
 5. [Shopkeeper](https://github.com/ahsanulhoqueabir/SPL/blob/main/04.%20Shopkeeper.c)
 6. [Quadratic Equation](https://github.com/ahsanulhoqueabir/SPL/blob/main/05.%20quadratic%20equation.c)
 7. [Sum of digits](https://github.com/ahsanulhoqueabir/SPL/blob/main/06.%20Sum%20of%20digits.c)
