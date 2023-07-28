@@ -25,11 +25,8 @@ Please adhere to this project's `code of conduct`.
 ## Documentation
 
 1. [Find out the average of five number](https://github.com/ahsanulhoqueabir/SPL/blob/main/1.%20Average.c)
-2. Temperature conversion
- 2.1 [Celcius to Fahrenheit ](https://github.com/ahsanulhoqueabir/SPL/blob/main/2.1%20temperature%20conversion.c)
-
-2.2 [Fahrenheit to Celcius](https://github.com/ahsanulhoqueabir/SPL/blob/main/2.2%20tempareture%20conversion.c)
-
+2.1 [Temperature conversion : Celcius to Fahrenheit ](https://github.com/ahsanulhoqueabir/SPL/blob/main/2.1%20temperature%20conversion.c)
+2.2 [Temperature conversion : Fahrenheit to Celcius](https://github.com/ahsanulhoqueabir/SPL/blob/main/2.2%20tempareture%20conversion.c)
 3. [ Numbers of days to year,month,days.](https://github.com/ahsanulhoqueabir/SPL/blob/main/3.%20Number%20of%20days.c)
 4. 
 
