@@ -1,5 +1,5 @@
 #include<stdio.h>
-    int debi(int a)
+    int d2b(int a)
     {
         int r;
         while(a!=0)
@@ -15,5 +15,5 @@ int main()
 {
     int a;
     scanf("%d",&a);
-    debi(a);
+    d2b(a);
 }
