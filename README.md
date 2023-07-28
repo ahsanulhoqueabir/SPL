@@ -59,11 +59,12 @@ Please adhere to this project's `code of conduct`.
 33. [To calculate the sum and series of series = 1-2+3-4+5-6+.....](https://github.com/ahsanulhoqueabir/SPL/blob/main/30.%20Series.c)
 34. [Matrix](https://github.com/ahsanulhoqueabir/SPL/blob/main/31.%20Matrix.c)
 35. [Decimal to Binary](https://github.com/ahsanulhoqueabir/SPL/blob/main/32.%20Decimal%20to%20Binary.c)
+36. [String](https://github.com/ahsanulhoqueabir/SPL/blob/main/15th%20May.c)
 
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at contact.ahsanul@gmail.com
+If you have any feedback, please reach out to me at `contact.ahsanul@gmail.com`
 
