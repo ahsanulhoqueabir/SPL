@@ -65,6 +65,14 @@ Please adhere to this project's `code of conduct`.
 39. [E - Fibonacci](https://github.com/ahsanulhoqueabir/SPL/blob/main/35.%20E%20-%20Fibonacci.c)
 40. [Problem L](https://github.com/ahsanulhoqueabir/SPL/blob/main/36.%20Problem%20L.c)
 41. [SD](https://github.com/ahsanulhoqueabir/SPL/blob/main/37.%20SD.c)
+42. [BMI measure](https://github.com/ahsanulhoqueabir/SPL/blob/main/38.%20BMI%20measure.c)
+43.  [goto statement](https://github.com/ahsanulhoqueabir/SPL/blob/main/39.goto.c)
+44.  [nth Fibonacci number](https://github.com/ahsanulhoqueabir/SPL/blob/main/40.%20nth%20Fibonacci%20number.c)
+45.  [The number of occurrences of a character.c](https://github.com/ahsanulhoqueabir/SPL/blob/main/41.%20the%20number%20of%20occurrences.c)
+46.  [Write a program to concatenate two strings.](https://github.com/ahsanulhoqueabir/SPL/blob/main/42.%20Write%20a%20program%20to%20concatenate%20two%20strings..c)
+47. [Write a program to compute Armstrong number between two intervals.](https://github.com/ahsanulhoqueabir/SPL/blob/main/43.%20Write%20a%20program%20to%20compute%20Armstrong%20number%20between%20two%20intervals.c)
+48. [Write a program to compute the frequency of character in a string.](https://github.com/ahsanulhoqueabir/SPL/blob/main/44.%20Write%20a%20program%20to%20compute%20the%20frequency%20of%20character%20in%20a%20string.c)
+49. [Write a program to check a string whether it is palindrome or not.](https://github.com/ahsanulhoqueabir/SPL/blob/main/45.%20Write%20a%20program%20to%20check%20a%20string%20whether%20it%20is%20palindrome%20or%20not.c)
 
 
 
