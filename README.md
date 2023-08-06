@@ -12,6 +12,18 @@ In this repository,i have tried to put together the problems that solved or give
 
 - [Ahsanul Hoque](https://www.facebook.com/MDAhsanulHoqueAbir).
 
+## Previous Year Question Solve
+---
+|  &nbsp; &nbsp; Batch Number  &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  Online read on Github &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  Download PDF &nbsp; &nbsp; &nbsp; | Notes |
+|:----------:|:----------:|:----------:| :----------:|
+| &nbsp; &nbsp; 12th Batch &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;  <img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Read%20online.svg"> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;  <img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Download.svg"> &nbsp; &nbsp; &nbsp; | Only pdf available |
+| 11th Batch | <img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Read%20online.svg"> | <img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Download.svg"> |
+| 10th Batch | <img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Read%20online.svg"> | <img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Download.svg"> |
+| 9th Batch | <img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Read%20online.svg"> | <img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Download.svg"> |
+
+---
+
+<!-- <a href="https://github.com/ahsanulhoqueabir"><img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Read%20online.svg" alt="Read Online" width="130" height="80"></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/ahsanulhoqueabir"><img src="https://github.com/ahsanulhoqueabir/Resources/blob/main/Download.svg" alt="Read Online" width="130" height="80"></a> -->
 
 ## Contributing
 
