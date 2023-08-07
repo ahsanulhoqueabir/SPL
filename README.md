@@ -89,6 +89,10 @@ Please adhere to this project's `code of conduct`.
 47. [Write a program to compute Armstrong number between two intervals.](https://github.com/ahsanulhoqueabir/SPL/blob/main/43.%20Write%20a%20program%20to%20compute%20Armstrong%20number%20between%20two%20intervals.c)
 48. [Write a program to compute the frequency of character in a string.](https://github.com/ahsanulhoqueabir/SPL/blob/main/44.%20Write%20a%20program%20to%20compute%20the%20frequency%20of%20character%20in%20a%20string.c)
 49. [Write a program to check a string whether it is palindrome or not.](https://github.com/ahsanulhoqueabir/SPL/blob/main/45.%20Write%20a%20program%20to%20check%20a%20string%20whether%20it%20is%20palindrome%20or%20not.c)
+50. [Write a program that takes a number n as input from user and generates the following pattern](https://github.com/ahsanulhoqueabir/SPL/blob/main/46.%20Write%20a%20program%20that%20takes%20a%20number%20n%20as%20input%20from%20user%20and%20generates%20the%20following%20pattern.c)
+51. [A simple Structure](https://github.com/ahsanulhoqueabir/SPL/blob/main/47.%20A%20simple%20Structure.c)
+52. [Write a program, which implements a recursive function which takes an integer number and displays the number in reverse.](https://github.com/ahsanulhoqueabir/SPL/blob/main/48.%20Write%20a%20program%2C%20which%20implements%20a%20recursive%20function%20which%20takes%20an%20integer%20number%20and%20displays%20the%20number%20in%20reverse.c)
+53. [Write a program which takes a string from user as input Then it writes the string to a file called "myfile.txt".](https://github.com/ahsanulhoqueabir/SPL/blob/main/49.%20Write%20a%20program%20which%20takes%20a%20string%20from%20user%20as%20input%20Then%20it%20writes%20the%20string%20to%20a%20file%20called%20%22myfile.txt%22.c)
 
 
 
