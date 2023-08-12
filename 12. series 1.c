@@ -12,9 +12,19 @@ int main() {
 
     printf("Series: ");
     for (i = 1; i <= n; i++) {
-        int sign = (i % 2 == 0) ? -i : +i;
-        printf("%d ", sign);
-        sum += sign;
+        int sign = (i % 2 == 0) ? -1 : 1;
+        int term = sign * i;
+        
+        if (term > 0) 
+        {
+            if (i > 1) 
+            {
+                printf(" + ");
+            }
+        }
+        
+        printf("%d ", term);
+        sum += term;
     }
 
     printf("\nSum: %d\n", sum);
